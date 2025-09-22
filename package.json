@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Automatización para reclamar tokens del faucet de Morkie 2 veces por día",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "node index.js"
